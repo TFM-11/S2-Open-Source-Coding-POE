@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_translate_sepedi"
+        android:title="Translate to Sepedi"
+        android:icon="@drawable/ic_translate"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_translate_afrikaans"
+        android:title="Translate to Afrikaans"
+        android:icon="@drawable/ic_translate"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_copy"
+        android:title="Copy"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="ifRoom" />
+
+</menu>

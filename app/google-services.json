@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204983759595",
+    "firebase_url": "https://anytime-car-wash-default-rtdb.firebaseio.com",
+    "project_id": "anytime-car-wash",
+    "storage_bucket": "anytime-car-wash.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204983759595:android:2f57a8c89221dd97a144ae",
+        "android_client_info": {
+          "package_name": "com.example.anytimecarwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204983759595-ltr09ucc14q8pa9hccthp4a6hv47q2t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWZcuBFs4qI4e-9auEBeSIbiQemHj11Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204983759595-ltr09ucc14q8pa9hccthp4a6hv47q2t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anytime Car Wash</string>
+
+    <!-- Language options -->
+    <string-array name="languages">
+        <item>English</item>
+        <item>Zulu</item>
+        <item>Sepedi</item>
+        <item>Afrikaans</item>
+    </string-array>
+</resources>

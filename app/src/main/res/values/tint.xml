@@ -1,0 +1,5 @@
+<resources>
+    <color name="blue">#007BFF</color>
+    <color name="switch_thumb_tint">#FFFFFF</color>
+    <color name="switch_track_tint">#B0BEC5</color>
+</resources>
